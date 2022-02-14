@@ -1,0 +1,19 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "This is a website that will display weather.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "Rupesh Dharme",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}

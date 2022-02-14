@@ -1,0 +1,15 @@
+{
+  "name": "currency-country",
+  "version": "1.0.0",
+  "description": "This webpage gives you the list of all the countries that use the given currency.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupesh Dharme",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}

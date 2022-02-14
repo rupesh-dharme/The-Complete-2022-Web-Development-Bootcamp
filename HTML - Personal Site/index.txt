@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rupesh's Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+  </head>
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="Rupesh.png" alt="Rupesh profile picture" /></td>
+        <td>
+          <h1>Rupesh Dharme</h1>
+          <p>
+            <em
+              >Student at
+              <strong
+                ><a href="https://pict.edu/"
+                  >Pune Institute of Computer Technology</a
+                ></strong
+              >.</em
+            >
+          </p>
+          <p>
+            I am from Akot district Akola. I have completed my schooling from
+            Freedom English School and Saint Paul's Academy Akot. I did my JEE
+            coaching from Akash Education Akola. I scored
+            <em>99.64</em> percentile in MHT-CET and am currently pursuing my
+            B.Tech in Computer Science and Engineering from Pune Institute of
+            Computer Technology.
+          </p>
+        </td>
+      </tr>
+    </table>
+
+    <hr />
+    <h3>Education</h3>
+    <!--spaces before and after doesnot matter-->
+    <ul>
+      <li><a href="https://pict.edu/">PICT, Pune</a></li>
+      <li>
+        <a href="https://www.facebook.com/stpa.org/">St. Paul's Academy</a>
+      </li>
+      <li>
+        <a
+          href="https://schools.org.in/akola/27050211556/freedom-english-school-akot.html"
+          >Freedom English School</a
+        >
+      </li>
+    </ul>
+    <hr />
+    <table cellspacing="10">
+      <thead>
+        <tr>
+          <th>Duration</th>
+          <th>Education</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2017</td>
+          <td>ssc</td>
+        </tr>
+        <tr>
+          <td>2017-2019</td>
+          <td>hsc</td>
+        </tr>
+        <tr>
+          <td>2019-2023</td>
+          <td>graduation b. tech.</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr />
+    <h3>Skills</h3>
+    <table cellspacing="10">
+      <tbody>
+        <tr>
+          <td>
+            <table cellspacing="10">
+              <tbody>
+                <tr>
+                  <td>HTML</td>
+                  <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                  <td>CSS</td>
+                  <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+          <td>
+            <table cellspacing="10">
+              <tbody>
+                <tr>
+                  <td>JS</td>
+                  <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                  <td>Excel</td>
+                  <td>⭐⭐⭐</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr />
+
+    <a href="hobbies.html" target="_blank">My Hobbies</a><br />
+    <a href="contacts.html">Contact me</a>
+  </body>
+</html>
